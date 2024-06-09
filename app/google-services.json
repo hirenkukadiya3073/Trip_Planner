@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733086012866",
+    "project_id": "explorkar",
+    "storage_bucket": "explorkar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733086012866:android:93f32ada6ca0800abf725b",
+        "android_client_info": {
+          "package_name": "com.example.explorkar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwko2zgT_nWRxxM2va83p3QBolBisaU0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
